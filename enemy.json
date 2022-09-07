@@ -1,0 +1,9 @@
+{
+    "Eastborne":[{
+        "slime": {
+            "damageMax": 10,
+            "damageMin": "1",
+            "hitpoint": 10
+        }
+    }]
+}
