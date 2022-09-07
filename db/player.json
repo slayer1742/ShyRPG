@@ -1,0 +1,17 @@
+{
+    "profile": {
+        "rank": {
+            "title": "Newbie",
+            "level": 0,
+            "exp": 0,
+            "nextLvl": 0
+        },
+        "hitpoint": 100,
+        "equepments": {
+            "sword":"basic",
+            "armor": "basic"
+        },
+        "potion": 5,
+        "currentArea": "Eastborne"
+    }
+}

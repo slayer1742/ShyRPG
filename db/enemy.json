@@ -1,0 +1,13 @@
+{
+    "Eastborne":[{
+        "name": "Slime",
+        "hitpoint": 10,
+        "rarity": "common",
+        "damageMin": 1,
+        "damageMax": 10,
+        "drops": [{
+            "name": "slime",
+            "rarity": "common"
+        }]
+    }]
+}
